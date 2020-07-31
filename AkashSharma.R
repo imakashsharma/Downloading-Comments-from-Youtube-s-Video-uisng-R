@@ -2,7 +2,7 @@
 library(vosonSML)
 ##google developer api key, go to google type developer key for youtube, select go to api console,click on credentials to view
 your api keys
-api="AIzaSyA4t95Zc1pSaMGeqjCcPYSBDbL7FFF67k8"
+api="Your APIs Keys"
 youtubeAuth <- Authenticate("youtube", apiKey = api)
 # collecting youtube video data using video IDs
 https://www.youtube.com/watch?v=N2-HsIYd0Go
